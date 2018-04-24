@@ -7,3 +7,4 @@ gcloud container clusters get-credentials $KUBYCLUSTERNAME --zone us-central1-a 
 
 kubectl create -f cassandra-service.yaml
 kubectl create -f cassandra-statefulset.yaml
+

@@ -15,3 +15,5 @@ This talk will be broken into three specific topics:
 1. Review: It's core purpose, original intent, and use within the industry.
 2. The space it fits within new architecture paradigms today.
 3. Node.js on Kubernetes Nodes working in Nodal Context.
+
+

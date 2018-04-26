@@ -1,8 +1,6 @@
 # Nodes for Nodes Node Nodal System
 
-Description: 
-
-## Goto Chicago Abstract
+## Description
 
 This repository is for a [session](https://gotochgo.com/2018/sessions/368) at GOTO Chicago, but is the starting point to build a reference application for Node.js using key capabilities I advocate for as *patterns & practices* starting a new application, including: observability, ML/AI hooks, transparency, and operations of the application or service.
 

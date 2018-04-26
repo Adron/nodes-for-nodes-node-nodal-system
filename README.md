@@ -4,7 +4,7 @@ Description:
 
 ## Goto Chicago Abstract
 
-This repository is for a [session](https://gotochgo.com/2018/sessions/368) at GOTO Chicago.
+This repository is for a [session](https://gotochgo.com/2018/sessions/368) at GOTO Chicago, but is the starting point to build a reference application for Node.js using key capabilities I advocate for as *patterns & practices* starting a new application, including: observability, ML/AI hooks, transparency, and operations of the application or service.
 
 ### Node Systems for Node.js Services on Nodes of Systemic Nodal Systems
 
